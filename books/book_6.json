@@ -1,0 +1,3761 @@
+[
+    {
+        "text": "DOCTYPE html> <html lang=\"en\"> <head> <link href=\"/static/img/swlogo57x57.",
+        "frame": []
+    },
+    {
+        "text": "png\" rel=\"apple-touch-icon\" type=\"image/png\" /> <link rel=\"shortcut icon\" href=\"/static/img/favicon.",
+        "frame": []
+    },
+    {
+        "text": "ico\" type=\"image/vnd.",
+        "frame": []
+    },
+    {
+        "text": "microsoft.",
+        "frame": []
+    },
+    {
+        "text": "icon\" /> <meta charset=\"utf-8\" /> <meta name=\"verify-v1\" content=\"RebhOpUlThetsH2YAKc+VKN3GjFkPbLvUbJtxDYCkUM=\" /> <meta name=\"robots\" content=\"index, follow\" /> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" /> <meta name = \"format-detection\" content=\"telephone=no\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.",
+        "frame": [
+            {
+                "LU": "follow.v",
+                "Frame": "Relative_time"
+            },
+            {
+                "LU": "name.n",
+                "Frame": "Name_conferral"
+            }
+        ]
+    },
+    {
+        "text": "0\" />.",
+        "frame": []
+    },
+    {
+        "text": "<title>Smashwords &ndash; Join Smashwords</title> </head>.",
+        "frame": []
+    },
+    {
+        "text": "<body ng-app=\"smashwords-core\"> <script src=\"/static/dist/js/runtime.",
+        "frame": [
+            {
+                "LU": "body.n",
+                "Frame": "Aggregate"
+            }
+        ]
+    },
+    {
+        "text": "c6df76ce.",
+        "frame": []
+    },
+    {
+        "text": "js\"></script> <script src=\"/static/dist/js/1.",
+        "frame": []
+    },
+    {
+        "text": "8e3ac48f.",
+        "frame": []
+    },
+    {
+        "text": "chunk.",
+        "frame": []
+    },
+    {
+        "text": "js\"></script> <script src=\"/static/dist/js/2.",
+        "frame": []
+    },
+    {
+        "text": "8e693d6c.",
+        "frame": []
+    },
+    {
+        "text": "chunk.",
+        "frame": []
+    },
+    {
+        "text": "js\"></script> <script src=\"/static/dist/js/main.",
+        "frame": []
+    },
+    {
+        "text": "18ad171f.",
+        "frame": []
+    },
+    {
+        "text": "chunk.",
+        "frame": []
+    },
+    {
+        "text": "js\"></script>.",
+        "frame": []
+    },
+    {
+        "text": "<script> Raven.",
+        "frame": []
+    },
+    {
+        "text": "config('https://db0acfea578c4f0293ca21d2993d003f@sentry.",
+        "frame": []
+    },
+    {
+        "text": "io/10253', {whitelistUrls: [/smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/], release: 'v2019.",
+        "frame": [
+            {
+                "LU": "release.n",
+                "Frame": "Publishing"
+            }
+        ]
+    },
+    {
+        "text": "01'}).",
+        "frame": []
+    },
+    {
+        "text": "addPlugin(AngularPlugin, angular).",
+        "frame": []
+    },
+    {
+        "text": "install(); </script> <script> window.",
+        "frame": [
+            {
+                "LU": "install.v",
+                "Frame": "Installing"
+            },
+            {
+                "LU": "window.n",
+                "Frame": "Connecting_architecture"
+            }
+        ]
+    },
+    {
+        "text": "angularData = {}; window.",
+        "frame": [
+            {
+                "LU": "window.n",
+                "Frame": "Connecting_architecture"
+            }
+        ]
+    },
+    {
+        "text": "angularData.",
+        "frame": []
+    },
+    {
+        "text": "user = {\"firstName\":\"\",\"lastName\":\"\",\"id\":-1,\"fullName\":\"Anonymous\",\"profPicURL\":\"\\/static\\/img\\/person_reading.",
+        "frame": []
+    },
+    {
+        "text": "png\"}; window.",
+        "frame": [
+            {
+                "LU": "window.n",
+                "Frame": "Connecting_architecture"
+            }
+        ]
+    },
+    {
+        "text": "angularData.",
+        "frame": []
+    },
+    {
+        "text": "user.",
+        "frame": []
+    },
+    {
+        "text": "loggedIn = false; window.",
+        "frame": [
+            {
+                "LU": "window.n",
+                "Frame": "Connecting_architecture"
+            }
+        ]
+    },
+    {
+        "text": "angularData.",
+        "frame": []
+    },
+    {
+        "text": "user.",
+        "frame": []
+    },
+    {
+        "text": "SSLBaseUrl = 'https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com'; ; </script>.",
+        "frame": []
+    },
+    {
+        "text": "<script> var _gaq = _gaq || []; _gaq.",
+        "frame": []
+    },
+    {
+        "text": "push(['_setAccount', 'UA-886172-7']); _gaq.",
+        "frame": [
+            {
+                "LU": "push.n",
+                "Frame": "Cause_change_of_position_on_a_scale"
+            }
+        ]
+    },
+    {
+        "text": "push(['_trackPageview']); (function() { var ga = document.",
+        "frame": [
+            {
+                "LU": "push.n",
+                "Frame": "Cause_change_of_position_on_a_scale"
+            },
+            {
+                "LU": "function.n",
+                "Frame": "Contingency"
+            },
+            {
+                "LU": "document.n",
+                "Frame": "Documents"
+            }
+        ]
+    },
+    {
+        "text": "createElement('script'); ga.",
+        "frame": []
+    },
+    {
+        "text": "type = 'text/javascript'; ga.",
+        "frame": [
+            {
+                "LU": "type.n",
+                "Frame": "Text_creation"
+            }
+        ]
+    },
+    {
+        "text": "async = true; ga.",
+        "frame": []
+    },
+    {
+        "text": "src = ('https:' == document.",
+        "frame": [
+            {
+                "LU": "document.n",
+                "Frame": "Documents"
+            }
+        ]
+    },
+    {
+        "text": "location.",
+        "frame": [
+            {
+                "LU": "location.n",
+                "Frame": "Locale"
+            }
+        ]
+    },
+    {
+        "text": "protocol.",
+        "frame": [
+            {
+                "LU": "protocol.n",
+                "Frame": "Law"
+            }
+        ]
+    },
+    {
+        "text": "'https://ssl' : 'http://www') + '.",
+        "frame": []
+    },
+    {
+        "text": "google-analytics.",
+        "frame": []
+    },
+    {
+        "text": "com/ga.",
+        "frame": []
+    },
+    {
+        "text": "js'; var s = document.",
+        "frame": [
+            {
+                "LU": "document.n",
+                "Frame": "Documents"
+            }
+        ]
+    },
+    {
+        "text": "getElementsByTagName('script')[0]; s.",
+        "frame": []
+    },
+    {
+        "text": "parentNode.",
+        "frame": []
+    },
+    {
+        "text": "insertBefore(ga, s); })(); </script>.",
+        "frame": []
+    },
+    {
+        "text": "--[if lt IE 8]> <div class=\"jumbotron alert\"> <img src=\"https://dwtr67e3ikfml.",
+        "frame": [
+            {
+                "LU": "if.scon",
+                "Frame": "Concessive"
+            },
+            {
+                "LU": "alert.n",
+                "Frame": "Attention"
+            }
+        ]
+    },
+    {
+        "text": "cloudfront.",
+        "frame": []
+    },
+    {
+        "text": "net/static/1/swlogo.",
+        "frame": []
+    },
+    {
+        "text": "png\" height=\"67\" alt=\"Smashwords\" /> <p>Oops.",
+        "frame": []
+    },
+    {
+        "text": "We're sorry, but your browser is no longer supported by Smashwords.",
+        "frame": [
+            {
+                "LU": "by.prep",
+                "Frame": "Non-gradable_proximity"
+            }
+        ]
+    },
+    {
+        "text": "Try <a href=\"http://whatbrowser.",
+        "frame": []
+    },
+    {
+        "text": "org\">upgrading your browser</a> to a new version for a better experience on Smashwords and other sites, and improved security.",
+        "frame": [
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "for.prep",
+                "Frame": "Taking_sides"
+            },
+            {
+                "LU": "experience.n",
+                "Frame": "Expertise"
+            },
+            {
+                "LU": "on.prep",
+                "Frame": "Non-gradable_proximity"
+            },
+            {
+                "LU": "other.a",
+                "Frame": "Increment"
+            },
+            {
+                "LU": "security.n",
+                "Frame": "Being_at_risk"
+            }
+        ]
+    },
+    {
+        "text": "</p> <p><a class=\"btn btn-outline-secondary\" href=\"http://whatbrowser.",
+        "frame": []
+    },
+    {
+        "text": "org\">Help Me Upgrade My Browser</a> </p> </div> <.",
+        "frame": []
+    },
+    {
+        "text": "[endif]--> <div id=\"wrap\"> <div id=\"header\"> <div id=\"header-md-bar\"> <div id=\"header-logo\"> <a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "wrap.n",
+                "Frame": "Clothing"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/\"> <img src=\"https://dwtr67e3ikfml.",
+        "frame": []
+    },
+    {
+        "text": "cloudfront.",
+        "frame": []
+    },
+    {
+        "text": "net/static/1/swlogo.",
+        "frame": []
+    },
+    {
+        "text": "png\" height=\"67\" width=\"250\" alt=\"Smashwords\"> </a> </div> </div>.",
+        "frame": []
+    },
+    {
+        "text": "<div id=\"header-right\"> <div id=\"header-search-container\"> <form action=\"/books/search\" method=\"get\" class=\"header-search\"> <label for=\"primarysearch\" class=\"sr-only\">Search</label> <span class=\"input-group search-input-group\"> <input class=\"form-control\" type=\"text\" name=\"query\" placeholder=\"Search for books, authors, or series.",
+        "frame": [
+            {
+                "LU": "form.n",
+                "Frame": "Coming_to_be"
+            },
+            {
+                "LU": "get.v",
+                "Frame": "Transition_to_state"
+            },
+            {
+                "LU": "for.prep",
+                "Frame": "Taking_sides"
+            },
+            {
+                "LU": "series.n",
+                "Frame": "Sequence"
+            }
+        ]
+    },
+    {
+        "text": "id=\"primarysearch\"> <span class=\"input-group-append\"> <button class=\"btn btn-header btn-black btn-search\" type=\"submit\" value=\"Search\"> <i class=\"icon-search\"></i> </button> </span> </span> </form> </div> <div id=\"header-buttons\"> <div class=\"btn-help\"> <a class=\"btn btn-header btn-header-square btn-black\" id=\"showTop\" href=\"#showTop\" title=\"Comments/Questions/Support\"> <i class=\"icon-question\"></i> </a> </div> <div id=\"header-status-widget\" user-status-widget></div> </div> </div> <div> <div id=\"navMenu\" class=\"d-none d-xs-block d-sm-block cf\"> <ul class=\"nav nav-tabs sw-nav-tabs\"> <li className=\"nav-item sw-nav-item\"> <a class=\"nav-link sw-nav-link\" href=\"/\" title=\"Browse books by categories, or view our authors\"> Home</a> </li> <li className=\"nav-item sw-nav-item\"> <a class=\"nav-link sw-nav-link\" href=\"/about\" title=\"Learn more about publishing and reading ebooks on Smashwords\"> About</a> </li> <li className=\"nav-item sw-nav-item\"> <a class=\"nav-link sw-nav-link\" href=\"/about/how_to_publish_on_smashwords\" title=\"Learn how to publish your ebook on Smashwords\"> How to Publish on Smashwords </a> </li> <li className=\"nav-item sw-nav-item\"> <a class=\"nav-link sw-nav-link\" href=\"/about/supportfaq\" title=\"Read our support FAQ\"> FAQ </a> </li> <li className=\"nav-item sw-nav-item\"> <a class=\"nav-link sw-nav-link\" href=\"/signup\" title=\"Sign up with Smashwords\">Sign Up</a> </li> <li class=\"nav-item sw-nav-item adult-control ml-auto\"> <a onclick=\"$('#filterMenuMenu').",
+        "frame": [
+            {
+                "LU": "submit.v",
+                "Frame": "Submitting_documents"
+            },
+            {
+                "LU": "category.n",
+                "Frame": "Categorization"
+            },
+            {
+                "LU": "view.v",
+                "Frame": "Perception_active"
+            },
+            {
+                "LU": "home.n",
+                "Frame": "Foreign_or_domestic_country"
+            },
+            {
+                "LU": "about.prep",
+                "Frame": "Proportional_quantity"
+            },
+            {
+                "LU": "reading.n",
+                "Frame": "Linguistic_meaning"
+            },
+            {
+                "LU": "on.prep",
+                "Frame": "Non-gradable_proximity"
+            },
+            {
+                "LU": "about.prep",
+                "Frame": "Proportional_quantity"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "on.prep",
+                "Frame": "Non-gradable_proximity"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "on.prep",
+                "Frame": "Non-gradable_proximity"
+            },
+            {
+                "LU": "with.prep",
+                "Frame": "Accompaniment"
+            },
+            {
+                "LU": "up.adv",
+                "Frame": "Locative_relation"
+            }
+        ]
+    },
+    {
+        "text": "toggle(33);\" class=\"btn nav-link sw-nav-link\" title=\"Erotica controls\" > Filtering </a> <div id=\"filterMenuMenu\" style=\"display: none;\"> <button type=\"button btn-filter\" class=\"btn btn-xs btn-block btn-outline-secondary active\" style=\"margin: 0px;\" onclick=\"oldsw.",
+        "frame": [
+            {
+                "LU": "active.a",
+                "Frame": "Being_active"
+            }
+        ]
+    },
+    {
+        "text": "contentFilteringChange('no_erotica');\" title=\"Blocks erotica books from appearing on the home page and in search results.",
+        "frame": [
+            {
+                "LU": "from.prep",
+                "Frame": "Evidence"
+            },
+            {
+                "LU": "on.prep",
+                "Frame": "Non-gradable_proximity"
+            },
+            {
+                "LU": "home.n",
+                "Frame": "Foreign_or_domestic_country"
+            },
+            {
+                "LU": "page.v",
+                "Frame": "Contacting"
+            },
+            {
+                "LU": "in.prep",
+                "Frame": "Taking_time"
+            },
+            {
+                "LU": "search.n",
+                "Frame": "Seeking"
+            },
+            {
+                "LU": "result.n",
+                "Frame": "Causation"
+            }
+        ]
+    },
+    {
+        "text": "> Exclude erotica        </button> <button type=\"button btn-filter\" class=\"btn btn-xs btn-block btn-outline-secondary \" style=\"margin: 0px;\" onclick=\"oldsw.",
+        "frame": []
+    },
+    {
+        "text": "contentFilteringChange('no_taboo');\" title=\"Mainstream erotica is carried by most major ebook stores.",
+        "frame": [
+            {
+                "LU": "most.art",
+                "Frame": "Proportional_quantity"
+            },
+            {
+                "LU": "major.a",
+                "Frame": "Importance"
+            },
+            {
+                "LU": "store.n",
+                "Frame": "Businesses"
+            }
+        ]
+    },
+    {
+        "text": "> Include mainstream erotica        </button> <button type=\"button btn-filter\" class=\"btn btn-xs btn-block btn-outline-secondary \" style=\"margin: 0px;\" onclick=\"oldsw.",
+        "frame": []
+    },
+    {
+        "text": "contentFilteringChange('no_filtering');\" title=\"Allow all erotica, including books with &#039;taboo&#039; themes.",
+        "frame": [
+            {
+                "LU": "include.v",
+                "Frame": "Inclusion"
+            },
+            {
+                "LU": "with.prep",
+                "Frame": "Accompaniment"
+            },
+            {
+                "LU": "theme.n",
+                "Frame": "Topic"
+            }
+        ]
+    },
+    {
+        "text": "> Include all erotica        </button> </div> </li> </ul> </div> <div class=\"mobileMenu cf d-block d-sm-none d-xs-none\"> <ul class=\"nav nav-tabs sw-nav-tabs\"> <li className=\"nav-item sw-nav-item\"> <a  class=\"nav-link sw-nav-link\" href=\"https://www.",
+        "frame": [
+            {
+                "LU": "all.a",
+                "Frame": "Quantified_mass"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about\">About</a> </li> <li className=\"nav-item sw-nav-item\"> <a class=\"nav-link sw-nav-link\" href=\"https://www.",
+        "frame": [
+            {
+                "LU": "about.prep",
+                "Frame": "Proportional_quantity"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/how_to_publish_on_smashwords\" title=\"Learn how to publish your ebook on Smashwords\"> Publish</a> </li> <li className=\"nav-item sw-nav-item\"> <a  class=\"nav-link sw-nav-link\" href=\"https://www.",
+        "frame": [
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "on.prep",
+                "Frame": "Non-gradable_proximity"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/signup\">Join</a> </li> <li className=\"nav-item sw-nav-item\"> <a class=\"nav-link sw-nav-link\" href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/auth\">Sign In </a> </li> </ul> </div>.",
+        "frame": [
+            {
+                "LU": "in.prep",
+                "Frame": "Taking_time"
+            }
+        ]
+    },
+    {
+        "text": "<script> $(document).",
+        "frame": [
+            {
+                "LU": "document.n",
+                "Frame": "Documents"
+            }
+        ]
+    },
+    {
+        "text": "ready(function() { oldsw.",
+        "frame": [
+            {
+                "LU": "ready.a",
+                "Frame": "Activity_ready_state"
+            },
+            {
+                "LU": "function.n",
+                "Frame": "Contingency"
+            }
+        ]
+    },
+    {
+        "text": "mobileBrowseSlider(); }); </script> <div id=\"mobileBrowseSlider\" class=\"browseMenu card panel-account user-menu\" style=\"display: none; width: 200px; position: absolute; z-index: 100;\"> <ul class=\"list-group\"> <li class=\"list-group-item\"> <a href=\"/\" title=\"Home\"> <i class=\"icon-home icon-fixed-width\"></i> Home </a> </li> <li class=\"list-group-item\"> <a href=\"/books\" title=\"Home\"> <i class=\"icon-list icon-fixed-width\"></i> Classic Interface </a> </li> <li class=\"list-group-item\"> <a href=\"/about/beta\" title=\"Site Updates\"> <i class=\"icon-bolt icon-fixed-width\"></i> Site Updates </a> </li> <li class=\"list-group-item\"> <a href=\"http://blog.",
+        "frame": [
+            {
+                "LU": "position.n",
+                "Frame": "Posture"
+            },
+            {
+                "LU": "home.n",
+                "Frame": "Foreign_or_domestic_country"
+            },
+            {
+                "LU": "home.n",
+                "Frame": "Foreign_or_domestic_country"
+            },
+            {
+                "LU": "home.n",
+                "Frame": "Foreign_or_domestic_country"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/\" title=\"Visit the Smashwords blog (external)\"> <i class=\"icon-bullhorn icon-fixed-width\"></i> Blog </a> </li> <li class=\"list-group-item\"> <a href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/upload\" title=\"Publish a new ebook on Smashwords\"> <i class=\"icon-upload-alt icon-fixed-width\"></i> Upload an eBook </a> </li> <li class=\"list-group-item\"> <a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "on.prep",
+                "Frame": "Non-gradable_proximity"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/how_to_publish_on_smashwords\" title=\"How to Publish and Distribute Ebooks with Smashwords\"> <i class=\"icon-book-hand-alt icon-fixed-width\"></i> How to Publish with Smashwords </a> </li> <li class=\"list-group-item\"> <a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "with.prep",
+                "Frame": "Accompaniment"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "with.prep",
+                "Frame": "Accompaniment"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/podcast\" title=\"Smart Author Podcast\"> <i class=\"icon-volume-up icon-fixed-width\"></i> Smart Author Podcast </a> </li> <li class=\"list-group-item\"> <a href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/supportfaq\" title=\"Read our support FAQ\"> <i class=\"icon-question-sign icon-fixed-width\"></i> FAQ </a> </li> </ul> </div> </div> </div> <div id=\"pageBody\"> <div class=\"commentLink\" id=\"commentLinkTop\"> <form action=\"https://www.",
+        "frame": [
+            {
+                "LU": "form.n",
+                "Frame": "Coming_to_be"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/comments/post\" method=\"post\"><div><input type=\"hidden\" name=\"secToken\" value=\"\" /></div>    <div id=\"commentBox\"> <div class=\"row\"> <div class=\"col-md-7\"> <h2 style=\"color: #fff; font-face: Helvetica, sans; font-weight: bold;\">FOR FASTER ANSWERS, CHECK THESE LINKS <i>BEFORE</i> YOU EMAIL US:</h2> <div class=\"row\"> <div class=\"col-md-6\"> <h3><strong>Authors/Publishers</strong></h3> <ul> <li><a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "post.n",
+                "Frame": "Time_vector"
+            },
+            {
+                "LU": "hidden.a",
+                "Frame": "Eclipse"
+            },
+            {
+                "LU": "strong.a",
+                "Frame": "Usefulness"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/supportfaq#works\">How Smashwords works</a> <ul> <li><a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "work.n",
+                "Frame": "Dimension"
+            },
+            {
+                "LU": "work.v",
+                "Frame": "Being_employed"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/signup/login/dashboard\">Where are my ebooks.",
+        "frame": [
+            {
+                "LU": "where.adv",
+                "Frame": "Locative_relation"
+            },
+            {
+                "LU": "be.v",
+                "Frame": "Performers_and_roles"
+            }
+        ]
+    },
+    {
+        "text": "</a></li> </ul> </li> <li>How to format ebooks <ul> <li><a href=\"/books/view/52\">Smashwords Style Guide</a></li> <li><a href=\"/about/supportfaq#trouble\">Troubleshooting</a></li> </ul> </li> <li><a href=\"/about/supportfaq#upload\">Problem uploading</a></li> <li><a href=\"/about/supportfaq#isbn\">ISBNs</a> </li> <li><a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "trouble.n",
+                "Frame": "Experiencer_obj"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/distribution\">Distributing via Smashwords</a> <ul> <li><a href=\"/about/supportfaq#error\">How to correct retailer listing errors</a></li> <li><a href=\"/about/supportfaq#Distributing\">Distribution FAQs</a></li> <li><a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/distribution\">How the Premium Catalog works</a></li> </ul> </li> <li><a href=\"/about/supportfaq#Royalties\">Earnings &amp; payment schedules</a></li> </ul> </div> <div class=\"col-md-6\"> <h3><strong>Readers</strong></h3> <ul> <li><a href=\"/about/supportfaq#Reading\">Benefits of registering</a></li> <li><a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "how.adv",
+                "Frame": "Means"
+            },
+            {
+                "LU": "work.v",
+                "Frame": "Being_employed"
+            },
+            {
+                "LU": "schedule.n",
+                "Frame": "Timetable"
+            },
+            {
+                "LU": "strong.a",
+                "Frame": "Usefulness"
+            },
+            {
+                "LU": "register.v",
+                "Frame": "Becoming_aware"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/signup/login/library\">Where are my ebooks.",
+        "frame": [
+            {
+                "LU": "where.adv",
+                "Frame": "Locative_relation"
+            },
+            {
+                "LU": "be.v",
+                "Frame": "Performers_and_roles"
+            }
+        ]
+    },
+    {
+        "text": "</a></li> <li><a href=\"/about/supportfaq#Reading\">How to purchase ebooks</a></li> <li><a href=\"/about/supportfaq#Reading\">How to read ebooks</a> <ul> <li><a href=\"/about/supportfaq#kindle\">Downloading to Kindle</a></li> <li><a href=\"/about/supportfaq#ios\">Download to iPad/iPhone/iOS</a></li> <li><a href=\"/about/supportfaq#sonynookkobo\">Download to B&amp;N nook</a></li> <li><a href=\"/about/supportfaq#sonynookkobo\">Download to Sony Reader</a></li> </ul> </li> </ul> </div> </div> <hr size=1 noshade=\"noshade\" /> Received an email from us, or wondering if something changed at Smashwords.",
+        "frame": [
+            {
+                "LU": "how.adv",
+                "Frame": "Means"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "how.adv",
+                "Frame": "Means"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "from.prep",
+                "Frame": "Evidence"
+            },
+            {
+                "LU": "wonder.v",
+                "Frame": "Cogitation"
+            },
+            {
+                "LU": "if.scon",
+                "Frame": "Concessive"
+            },
+            {
+                "LU": "something.n",
+                "Frame": "Hedging"
+            },
+            {
+                "LU": "change.v",
+                "Frame": "Change_tool"
+            }
+        ]
+    },
+    {
+        "text": "<br/> <a href=\"/about/beta\"><strong>Check our 'Site Updates'</strong></a> for the latest news.",
+        "frame": [
+            {
+                "LU": "strong.a",
+                "Frame": "Usefulness"
+            },
+            {
+                "LU": "for.prep",
+                "Frame": "Taking_sides"
+            }
+        ]
+    },
+    {
+        "text": "</div> <div class=\"col-md-5\"> <input type=\"hidden\" name=\"url\" id=\"url\" value=\"\" /> <label for=\"commentemail\">Your E-mail:</label> <input class=\"form-control\" type=\"text\" name=\"email\" id=\"commentemail\" value=\"\"/><br/> <label for=\"commentsubj\">Subject:</label> <input type=\"text\" class=\"form-control\" name=\"subj\" id=\"commentsubj\" value=\"\"/><br/> <label class=\"sr-only\" for=\"comment\">Describe your issue</label> <textarea name=\"comment\" id=\"comment\" class=\"form-control\" rows=\"10\"></textarea><br/> <input class=\"btn btn-primary\" id=\"btnSendTop\" type=\"button\" value=\"Send\"/> <input class=\"btn btn-outline-secondary\" id=\"btnCancel\" type=\"button\" value=\"Cancel\"/> <br/><br/> <div style=\"width: 30em;\"> <strong>Have a question</strong> not already answered in the links at left or on our main <a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "hidden.a",
+                "Frame": "Eclipse"
+            },
+            {
+                "LU": "label.v",
+                "Frame": "Labeling"
+            },
+            {
+                "LU": "label.v",
+                "Frame": "Labeling"
+            },
+            {
+                "LU": "label.v",
+                "Frame": "Labeling"
+            },
+            {
+                "LU": "comment.n",
+                "Frame": "Statement"
+            },
+            {
+                "LU": "issue.n",
+                "Frame": "Supply"
+            },
+            {
+                "LU": "comment.n",
+                "Frame": "Statement"
+            },
+            {
+                "LU": "comment.n",
+                "Frame": "Statement"
+            },
+            {
+                "LU": "strong.a",
+                "Frame": "Level_of_force_exertion"
+            },
+            {
+                "LU": "not.adv",
+                "Frame": "Negation"
+            },
+            {
+                "LU": "answer.v",
+                "Frame": "Resolve_problem"
+            },
+            {
+                "LU": "in.prep",
+                "Frame": "Taking_time"
+            },
+            {
+                "LU": "left.n",
+                "Frame": "Left_to_do"
+            },
+            {
+                "LU": "on.prep",
+                "Frame": "Non-gradable_proximity"
+            },
+            {
+                "LU": "main.a",
+                "Frame": "First_rank"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/supportfaq\"><strong>FAQ page</strong></a>.",
+        "frame": [
+            {
+                "LU": "strong.a",
+                "Frame": "Level_of_force_exertion"
+            },
+            {
+                "LU": "page.v",
+                "Frame": "Contacting"
+            }
+        ]
+    },
+    {
+        "text": "Ask it above.",
+        "frame": [
+            {
+                "LU": "above.prep",
+                "Frame": "Directional_locative_relation"
+            }
+        ]
+    },
+    {
+        "text": "</div> </div> </div> </div> </form> </div> <div id=\"contentArea\">.",
+        "frame": []
+    },
+    {
+        "text": "<div class=\"leftSideBox\"> <div class=\"left-nav-box\"> <h1>Smashwords Benefits</h1> <h2>Readers</h2> <ul style=\"list-style-type: disc;\"> <li> Over 80,000 ebooks priced at FREE.",
+        "frame": []
+    },
+    {
+        "text": "</li> <li> Over 510,000 low-cost multi-format ebooks from the world's best indie authors </li> <li> All books are DRM-free because Smashwords and our authors trust you </li> <li> Directly support over 140,000 indie authors who earn the highest royalties (up to 80% list price) from the Smashwords Store </li> <li> Thousands of new books to discover each month </li> <li> Smashwords library - permanent access to purchased books </li> <li> Dropbox integration </li> <li> Email delivery option for purchased books </li> </ul> <h2>Authors &amp; Publishers</h2> <ul style=\"list-style-type: disc;\"> <li> Simplicity - We make ebook publishing fast, free and easy.",
+        "frame": [
+            {
+                "LU": "from.prep",
+                "Frame": "Evidence"
+            },
+            {
+                "LU": "best.v",
+                "Frame": "Required_event"
+            },
+            {
+                "LU": "support.v",
+                "Frame": "Evidence"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Locative_relation"
+            },
+            {
+                "LU": "list.n",
+                "Frame": "Text_creation"
+            },
+            {
+                "LU": "price.n",
+                "Frame": "Commerce_scenario"
+            },
+            {
+                "LU": "from.prep",
+                "Frame": "Evidence"
+            },
+            {
+                "LU": "thousands.n",
+                "Frame": "Quantified_mass"
+            },
+            {
+                "LU": "new.a",
+                "Frame": "Age"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "discover.v",
+                "Frame": "Becoming_aware"
+            },
+            {
+                "LU": "month.n",
+                "Frame": "Measure_duration"
+            },
+            {
+                "LU": "access.n",
+                "Frame": "Having_or_lacking_access"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "delivery.n",
+                "Frame": "Delivery"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "for.prep",
+                "Frame": "Taking_sides"
+            },
+            {
+                "LU": "make.v",
+                "Frame": "Building"
+            },
+            {
+                "LU": "free.a",
+                "Frame": "Breaking_out_captive"
+            },
+            {
+                "LU": "easy.a",
+                "Frame": "Experiencer_focus"
+            }
+        ]
+    },
+    {
+        "text": "</li> <li> Reach more readers - Global distribution to multiple ebook retailers and libraries </li> <li> Earn more - Earn 60-80% list as your royalty </li> <li> Save time - Consolidated Smashwords distribution helps you spend more time writing and less time managing multiple upload platforms </li> <li> Reputation - Smashwords is the world's largest and most trusted indie ebook distributor.",
+        "frame": [
+            {
+                "LU": "reader.n",
+                "Frame": "Reading_perception"
+            },
+            {
+                "LU": "global.a",
+                "Frame": "Political_locales"
+            },
+            {
+                "LU": "distribution.n",
+                "Frame": "Dispersal"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "library.n",
+                "Frame": "Buildings"
+            },
+            {
+                "LU": "list.n",
+                "Frame": "Text_creation"
+            },
+            {
+                "LU": "time.n",
+                "Frame": "Event_instance"
+            },
+            {
+                "LU": "distribution.n",
+                "Frame": "Dispersal"
+            },
+            {
+                "LU": "spend.v",
+                "Frame": "Using_resource"
+            },
+            {
+                "LU": "time.n",
+                "Frame": "Event_instance"
+            },
+            {
+                "LU": "time.n",
+                "Frame": "Event_instance"
+            },
+            {
+                "LU": "manage.v",
+                "Frame": "Success_or_failure"
+            },
+            {
+                "LU": "most.art",
+                "Frame": "Proportional_quantity"
+            }
+        ]
+    },
+    {
+        "text": "Join over 140,000            authors and small independent presses that publish and distribute with Smashwords.",
+        "frame": [
+            {
+                "LU": "independent.a",
+                "Frame": "Contingency"
+            },
+            {
+                "LU": "that.adv",
+                "Frame": "Degree"
+            },
+            {
+                "LU": "with.prep",
+                "Frame": "Accompaniment"
+            }
+        ]
+    },
+    {
+        "text": "</li> </ul>.",
+        "frame": []
+    },
+    {
+        "text": "<h2>FREE professional publishing tools</h2> <ul style=\"list-style-type: disc;\"> <li> Daily sales reports </li> <li> Consolidated sales reporting and tax accounting </li> <li> Centralized metadata management </li> <li> Preorder distribution </li> <li> Author profile page </li> <li> FREE ISBNs </li> <li> FREE ebook conversion from Word.",
+        "frame": [
+            {
+                "LU": "tool.n",
+                "Frame": "Gizmo"
+            },
+            {
+                "LU": "daily.a",
+                "Frame": "Frequency"
+            },
+            {
+                "LU": "report.n",
+                "Frame": "Reporting"
+            },
+            {
+                "LU": "report.v",
+                "Frame": "Statement"
+            },
+            {
+                "LU": "management.n",
+                "Frame": "Being_in_control"
+            },
+            {
+                "LU": "distribution.n",
+                "Frame": "Dispersal"
+            },
+            {
+                "LU": "page.v",
+                "Frame": "Contacting"
+            },
+            {
+                "LU": "conversion.n",
+                "Frame": "Cause_change"
+            },
+            {
+                "LU": "from.prep",
+                "Frame": "Evidence"
+            }
+        ]
+    },
+    {
+        "text": "doc files, or upload your own.",
+        "frame": [
+            {
+                "LU": "own.v",
+                "Frame": "Possession"
+            }
+        ]
+    },
+    {
+        "text": "epub </li> <li> FREE unlimited anytime updates to books and metadata </li> <li> Exclusive marketing tools in the Smashwords Store such as Coupons, Author Interviews and Widgets </li> <li> FREE training tools to help you publish with pride, professionalism and success </li> </ul> </div> </div>.",
+        "frame": [
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "tool.n",
+                "Frame": "Gizmo"
+            },
+            {
+                "LU": "in.prep",
+                "Frame": "Taking_time"
+            },
+            {
+                "LU": "training.n",
+                "Frame": "Education_teaching"
+            },
+            {
+                "LU": "tool.n",
+                "Frame": "Gizmo"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "with.prep",
+                "Frame": "Accompaniment"
+            },
+            {
+                "LU": "success.n",
+                "Frame": "Success_or_failure"
+            }
+        ]
+    },
+    {
+        "text": "<div class=\"alert alert-danger\"> <p><strong> <i class=\"icon-exclamation\"></i> Login required </strong></p> <p>You must be logged in to read this book.",
+        "frame": [
+            {
+                "LU": "alert.a",
+                "Frame": "Warning"
+            },
+            {
+                "LU": "strong.a",
+                "Frame": "Usefulness"
+            },
+            {
+                "LU": "require.v",
+                "Frame": "Imposing_obligation"
+            },
+            {
+                "LU": "in.prep",
+                "Frame": "Taking_time"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "book.n",
+                "Frame": "Part_ordered_segments"
+            }
+        ]
+    },
+    {
+        "text": "</p> </div>.",
+        "frame": []
+    },
+    {
+        "text": "<div class=\"uploadSection\"> <div class=\"number\"></div> <div class=\"title\">Login</div> </div>.",
+        "frame": [
+            {
+                "LU": "number.n",
+                "Frame": "Be_subset_of"
+            }
+        ]
+    },
+    {
+        "text": "Already have an account with Smashwords.",
+        "frame": [
+            {
+                "LU": "account.n",
+                "Frame": "Justifying"
+            },
+            {
+                "LU": "with.prep",
+                "Frame": "Accompaniment"
+            }
+        ]
+    },
+    {
+        "text": "Login here.",
+        "frame": [
+            {
+                "LU": "here.adv",
+                "Frame": "Locative_relation"
+            }
+        ]
+    },
+    {
+        "text": "otherwise, sign-up for a free account <a href=\"#signupform\">below</a>.",
+        "frame": [
+            {
+                "LU": "for.prep",
+                "Frame": "Taking_sides"
+            },
+            {
+                "LU": "free.a",
+                "Frame": "Breaking_out_captive"
+            },
+            {
+                "LU": "account.n",
+                "Frame": "Justifying"
+            },
+            {
+                "LU": "below.prep",
+                "Frame": "Directional_locative_relation"
+            }
+        ]
+    },
+    {
+        "text": "<br/><br/>.",
+        "frame": []
+    },
+    {
+        "text": "<form action=\"https://www.",
+        "frame": [
+            {
+                "LU": "form.n",
+                "Frame": "Coming_to_be"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/auth/index\" method=\"post\" id=\"loginForm\"><div><input type=\"hidden\" name=\"secToken\" value=\"\" /></div><div style=\"max-width: 400px; text-align: center; margin-left: auto; margin-right: auto;\"> <h1 class=\"mainHeader\"> Sign in to your Smashwords account </h1> <input type=\"hidden\" name=\"loginActionID\" value=\"books\"/> <input type=\"hidden\" name=\"args\" value=\"100401\"/>.",
+        "frame": [
+            {
+                "LU": "hidden.a",
+                "Frame": "Eclipse"
+            },
+            {
+                "LU": "center.n",
+                "Frame": "Part_inner_outer"
+            },
+            {
+                "LU": "in.prep",
+                "Frame": "Taking_time"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "hidden.a",
+                "Frame": "Eclipse"
+            },
+            {
+                "LU": "hidden.a",
+                "Frame": "Eclipse"
+            }
+        ]
+    },
+    {
+        "text": "<label for=\"loginEmail\" class=\"sr-only\">Email</label> <div class=\"input-group form-group\"> <span class=\"input-group-prepend\"> <span class=\"input-group-text\"> <i class=\"icon-envelope-alt icon-fixed-width\"></i> </span> </span> <input type=\"email\" name=\"email\" id=\"email\" class=\"form-control\" type=\"text\" placeholder=\"Email\"> </div> <label for=\"loginPassword\" class=\"sr-only\">Password</label> <div class=\"input-group form-group\"> <span class=\"input-group-prepend\"> <span class=\"input-group-text\"> <i class=\"icon-key icon-fixed-width\"></i> </span> </span> <input name=\"password\" id=\"password\" type=\"password\" class=\"form-control\" placeholder=\"Password\"> </div>.",
+        "frame": [
+            {
+                "LU": "label.v",
+                "Frame": "Labeling"
+            },
+            {
+                "LU": "label.v",
+                "Frame": "Labeling"
+            }
+        ]
+    },
+    {
+        "text": "<div class=\"form-group\"> <input class=\"btn btn-bright btn-block\" type=\"submit\" value=\"Sign In\"/> </div>.",
+        "frame": [
+            {
+                "LU": "in.prep",
+                "Frame": "Taking_time"
+            }
+        ]
+    },
+    {
+        "text": "<span class=\"subnote\"> <a href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/passwordretrieval/emailreset\"> Forgot Your Password.",
+        "frame": []
+    },
+    {
+        "text": "</a> </span>.",
+        "frame": []
+    },
+    {
+        "text": "<div class=\"alert\"> Not registered.",
+        "frame": [
+            {
+                "LU": "alert.n",
+                "Frame": "Be_on_alert"
+            },
+            {
+                "LU": "not.adv",
+                "Frame": "Negation"
+            },
+            {
+                "LU": "register.v",
+                "Frame": "Becoming_aware"
+            }
+        ]
+    },
+    {
+        "text": "<br/> <a href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/signup\" class=\"btn btn-success\"> Click here to register for an account </a><br/> It's free.",
+        "frame": [
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "for.prep",
+                "Frame": "Taking_sides"
+            },
+            {
+                "LU": "account.n",
+                "Frame": "Justifying"
+            },
+            {
+                "LU": "free.a",
+                "Frame": "Breaking_out_captive"
+            }
+        ]
+    },
+    {
+        "text": "</div> </div> </form> <br/><br/>.",
+        "frame": []
+    },
+    {
+        "text": "<div class=\"uploadSection\"> <div class=\"number\"></div> <div class=\"title\"> <a name=\"signupform\"></a> Join Smashwords </div> </div>.",
+        "frame": [
+            {
+                "LU": "number.n",
+                "Frame": "Be_subset_of"
+            }
+        ]
+    },
+    {
+        "text": "Join Smashwords for free.",
+        "frame": [
+            {
+                "LU": "for.prep",
+                "Frame": "Taking_sides"
+            },
+            {
+                "LU": "free.a",
+                "Frame": "Breaking_out_captive"
+            }
+        ]
+    },
+    {
+        "text": "<br/><br/>.",
+        "frame": []
+    },
+    {
+        "text": "<div> <ul> <li>Join with confidence.",
+        "frame": [
+            {
+                "LU": "with.prep",
+                "Frame": "Accompaniment"
+            },
+            {
+                "LU": "confidence.n",
+                "Frame": "Certainty"
+            }
+        ]
+    },
+    {
+        "text": "We honor a strict no-spam <a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "strict.a",
+                "Frame": "Strictness"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/privacy\" target=\"_blank\">privacy policy</a> and won't sell or rent your email address.",
+        "frame": [
+            {
+                "LU": "address.n",
+                "Frame": "Statement"
+            }
+        ]
+    },
+    {
+        "text": "</li> <li>Your e-mail address will not appear on the site.",
+        "frame": [
+            {
+                "LU": "address.n",
+                "Frame": "Statement"
+            },
+            {
+                "LU": "not.adv",
+                "Frame": "Negation"
+            },
+            {
+                "LU": "on.prep",
+                "Frame": "Non-gradable_proximity"
+            }
+        ]
+    },
+    {
+        "text": "</li> </ul> </div>.",
+        "frame": []
+    },
+    {
+        "text": "<form action=\"https://www.",
+        "frame": [
+            {
+                "LU": "form.n",
+                "Frame": "Coming_to_be"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/signup/index\" method=\"post\" autocomplete=\"off\" role=\"form\" class=\"\" id=\"signupForm\"><div><input type=\"hidden\" name=\"secToken\" value=\"\" /></div>.",
+        "frame": [
+            {
+                "LU": "off.prep",
+                "Frame": "Accuracy"
+            },
+            {
+                "LU": "form.n",
+                "Frame": "Coming_to_be"
+            },
+            {
+                "LU": "hidden.a",
+                "Frame": "Eclipse"
+            }
+        ]
+    },
+    {
+        "text": "<div class=\"row\"> <div class=\"col-sm-6\"> <div class=\"form-group\"> <label for=\"email\" class=\"control-label\">Email</label> <input class=\"form-control input-sm\" type=\"email\" name=\"email\" id=\"email\" size=\"25\" placeholder=\"prolific@example.",
+        "frame": [
+            {
+                "LU": "example.n",
+                "Frame": "Instance"
+            }
+        ]
+    },
+    {
+        "text": "com\" value=\"\"/> </div> </div> </div>.",
+        "frame": []
+    },
+    {
+        "text": "<div class=\"row\"> <div class=\"form-group col-sm-6\"> <label for=\"username\" class=\"control-label\">Username</label> <.",
+        "frame": [
+            {
+                "LU": "label.v",
+                "Frame": "Labeling"
+            }
+        ]
+    },
+    {
+        "text": "TODO: restore URL prefix --> <input class=\"form-control input-sm\" type=\"text\" name=\"username\" id=\"username\" placeholder=\"Username\" value=\"\"/> <span class=\"help-block\">Keep it simple: A-Z, a-z, 0-9 only.",
+        "frame": [
+            {
+                "LU": "restore.v",
+                "Frame": "Rejuvenation"
+            },
+            {
+                "LU": "simple.a",
+                "Frame": "System_complexity"
+            },
+            {
+                "LU": "only.a",
+                "Frame": "Sole_instance"
+            }
+        ]
+    },
+    {
+        "text": "</span> </div> </div>.",
+        "frame": []
+    },
+    {
+        "text": "<div class=\"row\"> <div class=\"form-group col-sm-6\"> <label class=\"control-label\" for=\"password\">Password</label> <input class=\"form-control input-sm\" type=\"password\" name=\"password\" id=\"password\" placeholder=\"Password\" value=\"\"/> </div> </div>.",
+        "frame": [
+            {
+                "LU": "label.v",
+                "Frame": "Labeling"
+            }
+        ]
+    },
+    {
+        "text": "<div class=\"row\"> <div class=\"form-group col-sm-6\"> <label class=\"control-label\" for=\"password\">Confirm Password</label> <input class=\"form-control input-sm\" type=\"password\" name=\"passwordconf\" id=\"passwordconf\" placeholder=\"Confirm password\" value=\"\"/> </div> </div>.",
+        "frame": []
+    },
+    {
+        "text": "<div class=\"row\"> <div class=\"col-sm-6\"> <label class=\"control-label\">Name or Pen Name (optional)</label>.",
+        "frame": [
+            {
+                "LU": "label.v",
+                "Frame": "Labeling"
+            }
+        ]
+    },
+    {
+        "text": "<div class=\"form-group\"> <input class=\"form-control input-sm\" type=\"text\" name=\"firstname\" id=\"firstname\" placeholder=\"First\" value=\"\"/> </div>.",
+        "frame": []
+    },
+    {
+        "text": "<input class=\"form-control input-sm\" type=\"text\" name=\"lastname\" id=\"lastname\" placeholder=\"Last\" value=\"\"/>.",
+        "frame": []
+    },
+    {
+        "text": "<select name=\"namesuffix\" class=\"form-control input-sm\"><option value=\"\" selected>[none]</option><option value=\"Jr\">Jr.",
+        "frame": [
+            {
+                "LU": "select.v",
+                "Frame": "Choosing"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            }
+        ]
+    },
+    {
+        "text": "</option><option value=\"Sr\">Sr.",
+        "frame": [
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            }
+        ]
+    },
+    {
+        "text": "</option><option value=\"II\">II</option><option value=\"III\">III</option><option value=\"IV\">IV</option><option value=\"V\">V</option><option value=\"VI\">VI</option><option value=\"VII\">VII</option><option value=\"VIII\">VIII</option><option value=\"IX\">IX</option><option value=\"X\">X</option></select>            <span class=\"help-block\"> <strong>Note:</strong> Name is optional, but if you plan on <a href=\"/distribution\" target=\"_blank\">publishing books</a>, it is important to enter your real name or a pen name.",
+        "frame": [
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "v.n",
+                "Frame": "Shapes"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "strong.a",
+                "Frame": "Usefulness"
+            },
+            {
+                "LU": "if.scon",
+                "Frame": "Concessive"
+            },
+            {
+                "LU": "plan.v",
+                "Frame": "Purpose"
+            },
+            {
+                "LU": "on.prep",
+                "Frame": "Non-gradable_proximity"
+            },
+            {
+                "LU": "publish.v",
+                "Frame": "Publishing"
+            },
+            {
+                "LU": "important.a",
+                "Frame": "Importance"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Goal"
+            },
+            {
+                "LU": "name.n",
+                "Frame": "Name_conferral"
+            },
+            {
+                "LU": "name.n",
+                "Frame": "Name_conferral"
+            }
+        ]
+    },
+    {
+        "text": "</span> </div> </div> </div>.",
+        "frame": []
+    },
+    {
+        "text": "<div class=\"row\"> <div class=\"col-sm-6\"> <label class=\"control-label\">Age</label>.",
+        "frame": [
+            {
+                "LU": "label.v",
+                "Frame": "Labeling"
+            },
+            {
+                "LU": "age.n",
+                "Frame": "Age"
+            }
+        ]
+    },
+    {
+        "text": "<div class=\"radio\"> <label> <input type=\"radio\" name=\"over18\" id=\"over18_no\" value=\"no\"  /> I am under 18.",
+        "frame": [
+            {
+                "LU": "radio.v",
+                "Frame": "Contacting"
+            },
+            {
+                "LU": "under.prep",
+                "Frame": "Non-gradable_proximity"
+            }
+        ]
+    },
+    {
+        "text": "</label> </div> <div class=\"radio\"> <label> <input type=\"radio\" name=\"over18\" id=\"over18_yes\" value=\"yes\"  /> I am over 18.",
+        "frame": [
+            {
+                "LU": "radio.v",
+                "Frame": "Contacting"
+            },
+            {
+                "LU": "radio.v",
+                "Frame": "Contacting"
+            },
+            {
+                "LU": "over.a",
+                "Frame": "Non-gradable_proximity"
+            }
+        ]
+    },
+    {
+        "text": "</label> </div> </div> </div>.",
+        "frame": []
+    },
+    {
+        "text": "<div class=\"row\"> <div class=\"form-group col-sm-6\"> <label class=\"control-label\">Country</label> <select class=\"form-control input-sm\" name=\"location\" class=\"form-control input-sm\"> <option value=\"\" selected>(None selected)</option> <option value=\"US\">United States</option> <option value=\"CA\">Canada</option> <option value=\"GB\">United Kingdom</option> <option value=\"AU\">Australia</option> <option value=\"NZ\">New Zealand</option> <option value=\"AF\">Afghanistan</option> <option value=\"AL\">Albania</option> <option value=\"DZ\">Algeria</option> <option value=\"AS\">American Samoa</option> <option value=\"AD\">Andorra</option> <option value=\"AO\">Angola</option> <option value=\"AI\">Anguilla</option> <option value=\"AQ\">Antarctica</option> <option value=\"AG\">Antigua And Barbuda</option> <option value=\"AR\">Argentina</option> <option value=\"AM\">Armenia</option> <option value=\"AW\">Aruba</option> <option value=\"AT\">Austria</option> <option value=\"AZ\">Azerbaijan</option> <option value=\"BS\">Bahamas</option> <option value=\"BH\">Bahrain</option> <option value=\"BD\">Bangladesh</option> <option value=\"BB\">Barbados</option> <option value=\"BY\">Belarus</option> <option value=\"BE\">Belgium</option> <option value=\"BZ\">Belize</option> <option value=\"BJ\">Benin</option> <option value=\"BM\">Bermuda</option> <option value=\"BT\">Bhutan</option> <option value=\"BO\">Bolivia</option> <option value=\"BA\">Bosnia And Herzegovina</option> <option value=\"BW\">Botswana</option> <option value=\"BV\">Bouvet Island</option> <option value=\"BR\">Brazil</option> <option value=\"IO\">British Indian Ocean Territory</option> <option value=\"BN\">Brunei Darussalam</option> <option value=\"BG\">Bulgaria</option> <option value=\"BF\">Burkina Faso</option> <option value=\"BI\">Burundi</option> <option value=\"KH\">Cambodia</option> <option value=\"CM\">Cameroon</option> <option value=\"CV\">Cape Verde</option> <option value=\"KY\">Cayman Islands</option> <option value=\"CF\">Central African Republic</option> <option value=\"TD\">Chad</option> <option value=\"CL\">Chile</option> <option value=\"CN\">China</option> <option value=\"CX\">Christmas Island</option> <option value=\"CC\">Cocos (keeling) Islands</option> <option value=\"CO\">Colombia</option> <option value=\"KM\">Comoros</option> <option value=\"CG\">Congo</option> <option value=\"CD\">Congo, The Democratic Republic Of The</option> <option value=\"CK\">Cook Islands</option> <option value=\"CR\">Costa Rica</option> <option value=\"CI\">Cote D Ivoire</option> <option value=\"HR\">Croatia</option> <option value=\"CU\">Cuba</option> <option value=\"CY\">Cyprus</option> <option value=\"CZ\">Czech Republic</option> <option value=\"DK\">Denmark</option> <option value=\"DJ\">Djibouti</option> <option value=\"DM\">Dominica</option> <option value=\"DO\">Dominican Republic</option> <option value=\"TP\">East Timor</option> <option value=\"EC\">Ecuador</option> <option value=\"EG\">Egypt</option> <option value=\"SV\">El Salvador</option> <option value=\"GQ\">Equatorial Guinea</option> <option value=\"ER\">Eritrea</option> <option value=\"EE\">Estonia</option> <option value=\"ET\">Ethiopia</option> <option value=\"FK\">Falkland Islands (malvinas)</option> <option value=\"FO\">Faroe Islands</option> <option value=\"FJ\">Fiji</option> <option value=\"FI\">Finland</option> <option value=\"FR\">France</option> <option value=\"GF\">French Guiana</option> <option value=\"PF\">French Polynesia</option> <option value=\"TF\">French Southern Territories</option> <option value=\"GA\">Gabon</option> <option value=\"GM\">Gambia</option> <option value=\"GE\">Georgia</option> <option value=\"DE\">Germany</option> <option value=\"GH\">Ghana</option> <option value=\"GI\">Gibraltar</option> <option value=\"GR\">Greece</option> <option value=\"GL\">Greenland</option> <option value=\"GD\">Grenada</option> <option value=\"GP\">Guadeloupe</option> <option value=\"GU\">Guam</option> <option value=\"GT\">Guatemala</option> <option value=\"GN\">Guinea</option> <option value=\"GW\">Guinea-bissau</option> <option value=\"GY\">Guyana</option> <option value=\"HT\">Haiti</option> <option value=\"HM\">Heard Island And Mcdonald Islands</option> <option value=\"VA\">Holy See (vatican City State)</option> <option value=\"HN\">Honduras</option> <option value=\"HK\">Hong Kong</option> <option value=\"HU\">Hungary</option> <option value=\"IS\">Iceland</option> <option value=\"IN\">India</option> <option value=\"ID\">Indonesia</option> <option value=\"IR\">Iran, Islamic Republic Of</option> <option value=\"IQ\">Iraq</option> <option value=\"IE\">Ireland</option> <option value=\"IL\">Israel</option> <option value=\"IT\">Italy</option> <option value=\"JM\">Jamaica</option> <option value=\"JP\">Japan</option> <option value=\"JO\">Jordan</option> <option value=\"KZ\">Kazakhstan</option> <option value=\"KE\">Kenya</option> <option value=\"KI\">Kiribati</option> <option value=\"KP\">Korea Democratic Peoples Republic Of</option> <option value=\"KR\">Korea Republic Of</option> <option value=\"KW\">Kuwait</option> <option value=\"KG\">Kyrgyzstan</option> <option value=\"LA\">Lao Peoples Democratic Republic</option> <option value=\"LV\">Latvia</option> <option value=\"LB\">Lebanon</option> <option value=\"LS\">Lesotho</option> <option value=\"LR\">Liberia</option> <option value=\"LY\">Libyan Arab Jamahiriya</option> <option value=\"LI\">Liechtenstein</option> <option value=\"LT\">Lithuania</option> <option value=\"LU\">Luxembourg</option> <option value=\"MO\">Macau</option> <option value=\"MK\">Macedonia, The Former Yugoslav Republic Of</option> <option value=\"MG\">Madagascar</option> <option value=\"MW\">Malawi</option> <option value=\"MY\">Malaysia</option> <option value=\"MV\">Maldives</option> <option value=\"ML\">Mali</option> <option value=\"MT\">Malta</option> <option value=\"MH\">Marshall Islands</option> <option value=\"MQ\">Martinique</option> <option value=\"MR\">Mauritania</option> <option value=\"MU\">Mauritius</option> <option value=\"YT\">Mayotte</option> <option value=\"MX\">Mexico</option> <option value=\"FM\">Micronesia, Federated States Of</option> <option value=\"MD\">Moldova, Republic Of</option> <option value=\"MC\">Monaco</option> <option value=\"MN\">Mongolia</option> <option value=\"MS\">Montserrat</option> <option value=\"MA\">Morocco</option> <option value=\"MZ\">Mozambique</option> <option value=\"MM\">Myanmar</option> <option value=\"NA\">Namibia</option> <option value=\"NR\">Nauru</option> <option value=\"NP\">Nepal</option> <option value=\"NL\">Netherlands</option> <option value=\"AN\">Netherlands Antilles</option> <option value=\"NC\">New Caledonia</option> <option value=\"NI\">Nicaragua</option> <option value=\"NE\">Niger</option> <option value=\"NG\">Nigeria</option> <option value=\"NU\">Niue</option> <option value=\"NF\">Norfolk Island</option> <option value=\"MP\">Northern Mariana Islands</option> <option value=\"NO\">Norway</option> <option value=\"OM\">Oman</option> <option value=\"PK\">Pakistan</option> <option value=\"PW\">Palau</option> <option value=\"PS\">Palestinian Territory, Occupied</option> <option value=\"PA\">Panama</option> <option value=\"PG\">Papua New Guinea</option> <option value=\"PY\">Paraguay</option> <option value=\"PE\">Peru</option> <option value=\"PH\">Philippines</option> <option value=\"PN\">Pitcairn</option> <option value=\"PL\">Poland</option> <option value=\"PT\">Portugal</option> <option value=\"PR\">Puerto Rico</option> <option value=\"QA\">Qatar</option> <option value=\"RE\">Reunion</option> <option value=\"RO\">Romania</option> <option value=\"RU\">Russian Federation</option> <option value=\"RW\">Rwanda</option> <option value=\"SH\">Saint Helena</option> <option value=\"KN\">Saint Kitts And Nevis</option> <option value=\"LC\">Saint Lucia</option> <option value=\"PM\">Saint Pierre And Miquelon</option> <option value=\"VC\">Saint Vincent And The Grenadines</option> <option value=\"WS\">Samoa</option> <option value=\"SM\">San Marino</option> <option value=\"ST\">Sao Tome And Principe</option> <option value=\"SA\">Saudi Arabia</option> <option value=\"GB-SCT\">Scotland</option> <option value=\"SN\">Senegal</option> <option value=\"RS\">Serbia</option> <option value=\"SC\">Seychelles</option> <option value=\"SL\">Sierra Leone</option> <option value=\"SG\">Singapore</option> <option value=\"SK\">Slovakia</option> <option value=\"SI\">Slovenia</option> <option value=\"SB\">Solomon Islands</option> <option value=\"SO\">Somalia</option> <option value=\"ZA\">South Africa</option> <option value=\"GS\">South Georgia And The South Sandwich Islands</option> <option value=\"ES\">Spain</option> <option value=\"LK\">Sri Lanka</option> <option value=\"SD\">Sudan</option> <option value=\"SR\">Suriname</option> <option value=\"SJ\">Svalbard And Jan Mayen</option> <option value=\"SZ\">Swaziland</option> <option value=\"SE\">Sweden</option> <option value=\"CH\">Switzerland</option> <option value=\"SY\">Syrian Arab Republic</option> <option value=\"TW\">Taiwan</option> <option value=\"TJ\">Tajikistan</option> <option value=\"TZ\">Tanzania, United Republic Of</option> <option value=\"TH\">Thailand</option> <option value=\"TG\">Togo</option> <option value=\"TK\">Tokelau</option> <option value=\"TO\">Tonga</option> <option value=\"TT\">Trinidad And Tobago</option> <option value=\"TN\">Tunisia</option> <option value=\"TR\">Turkey</option> <option value=\"TM\">Turkmenistan</option> <option value=\"TC\">Turks And Caicos Islands</option> <option value=\"TV\">Tuvalu</option> <option value=\"UG\">Uganda</option> <option value=\"UA\">Ukraine</option> <option value=\"AE\">United Arab Emirates</option> <option value=\"UM\">United States Minor Outlying Islands</option> <option value=\"UY\">Uruguay</option> <option value=\"UZ\">Uzbekistan</option> <option value=\"VU\">Vanuatu</option> <option value=\"VE\">Venezuela</option> <option value=\"VN\">Viet Nam</option> <option value=\"VG\">Virgin Islands, British</option> <option value=\"VI\">Virgin Islands, U.",
+        "frame": [
+            {
+                "LU": "label.v",
+                "Frame": "Labeling"
+            },
+            {
+                "LU": "location.n",
+                "Frame": "Locale"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "kingdom.n",
+                "Frame": "Political_locales"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "new.a",
+                "Frame": "Age"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "American.n",
+                "Frame": "People_by_origin"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "BW.n",
+                "Frame": "Weapon"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "indian.a",
+                "Frame": "Origin"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "cape.n",
+                "Frame": "Clothing"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "central.a",
+                "Frame": "Part_inner_outer"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "east.n",
+                "Frame": "Directional_locative_relation"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "southern.a",
+                "Frame": "Part_orientational"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "state.n",
+                "Frame": "Statement"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "new.a",
+                "Frame": "Age"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "northern.a",
+                "Frame": "Part_orientational"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "panama.n",
+                "Frame": "Accoutrements"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "new.a",
+                "Frame": "Age"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "russian.a",
+                "Frame": "Origin"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "saudi.a",
+                "Frame": "Origin"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "syrian.a",
+                "Frame": "Origin"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "turkey.n",
+                "Frame": "Food"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            }
+        ]
+    },
+    {
+        "text": "</option> <option value=\"WF\">Wallis And Futuna</option> <option value=\"EH\">Western Sahara</option> <option value=\"YE\">Yemen</option> <option value=\"ZM\">Zambia</option> <option value=\"ZW\">Zimbabwe</option> </select>    </div> </div>.",
+        "frame": [
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "western.a",
+                "Frame": "Part_orientational"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "option.n",
+                "Frame": "Alternatives"
+            }
+        ]
+    },
+    {
+        "text": "<div class=\"row\"> <div class=\"form-group col-sm-6\"> <label class=\" control-label\" for=\"howhear\">How did you hear about Smashwords.",
+        "frame": [
+            {
+                "LU": "do.v",
+                "Frame": "Touring"
+            },
+            {
+                "LU": "hear.v",
+                "Frame": "Perception_experience"
+            },
+            {
+                "LU": "about.prep",
+                "Frame": "Proportional_quantity"
+            }
+        ]
+    },
+    {
+        "text": "</label>.",
+        "frame": []
+    },
+    {
+        "text": "<textarea class=\"form-control input-sm\" id=\"howhear\" name=\"howhear\" maxlength=\"300\" placeholder=\"Tell us how you heard about Smashwords.",
+        "frame": [
+            {
+                "LU": "about.prep",
+                "Frame": "Proportional_quantity"
+            }
+        ]
+    },
+    {
+        "text": "<div class=\"row\"> <div class=\"form-group col-sm-6\"> <label class=\"control-label\">Terms of Service</label>.",
+        "frame": [
+            {
+                "LU": "label.v",
+                "Frame": "Labeling"
+            },
+            {
+                "LU": "service.n",
+                "Frame": "Public_services"
+            }
+        ]
+    },
+    {
+        "text": "By registering for Smashwords, I acknowledge:.",
+        "frame": [
+            {
+                "LU": "register.v",
+                "Frame": "Becoming_aware"
+            },
+            {
+                "LU": "for.prep",
+                "Frame": "Taking_sides"
+            },
+            {
+                "LU": "acknowledge.v",
+                "Frame": "Statement"
+            }
+        ]
+    },
+    {
+        "text": "<div class=\"checkbox\"> <label> <input type=\"checkbox\" name=\"agree_tos\" id=\"agree_tos\" value=\"yes\" onclick=\"signupForm.",
+        "frame": []
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "submit.",
+        "frame": [
+            {
+                "LU": "submit.v",
+                "Frame": "Submitting_documents"
+            }
+        ]
+    },
+    {
+        "text": "disabled=(.",
+        "frame": []
+    },
+    {
+        "text": "signupForm.",
+        "frame": []
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "agree_tos.",
+        "frame": []
+    },
+    {
+        "text": "checked ||.",
+        "frame": [
+            {
+                "LU": "check.v",
+                "Frame": "Scrutiny"
+            }
+        ]
+    },
+    {
+        "text": "signupForm.",
+        "frame": []
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "agree_privacy.",
+        "frame": []
+    },
+    {
+        "text": "checked ||.",
+        "frame": [
+            {
+                "LU": "check.v",
+                "Frame": "Scrutiny"
+            }
+        ]
+    },
+    {
+        "text": "signupForm.",
+        "frame": []
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "agree_email.",
+        "frame": []
+    },
+    {
+        "text": "checked);\" /> I accept the Smashwords <a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "check.v",
+                "Frame": "Scrutiny"
+            },
+            {
+                "LU": "accept.v",
+                "Frame": "Respond_to_proposal"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/tos\" target=\"_blank\">Terms of Service Agreement</a>, which governs my use of the Smashwords platform and service </label> </div> <div class=\"checkbox\"> <label> <input type=\"checkbox\" name=\"agree_privacy\" id=\"agree_privacy\" value=\"yes\" onclick=\"signupForm.",
+        "frame": [
+            {
+                "LU": "agreement.n",
+                "Frame": "Be_in_agreement_on_action"
+            },
+            {
+                "LU": "govern.v",
+                "Frame": "Leadership"
+            },
+            {
+                "LU": "use.n",
+                "Frame": "Alternatives"
+            },
+            {
+                "LU": "service.n",
+                "Frame": "Public_services"
+            }
+        ]
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "submit.",
+        "frame": [
+            {
+                "LU": "submit.v",
+                "Frame": "Submitting_documents"
+            }
+        ]
+    },
+    {
+        "text": "disabled=(.",
+        "frame": []
+    },
+    {
+        "text": "signupForm.",
+        "frame": []
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "agree_tos.",
+        "frame": []
+    },
+    {
+        "text": "checked ||.",
+        "frame": [
+            {
+                "LU": "check.v",
+                "Frame": "Scrutiny"
+            }
+        ]
+    },
+    {
+        "text": "signupForm.",
+        "frame": []
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "agree_privacy.",
+        "frame": []
+    },
+    {
+        "text": "checked ||.",
+        "frame": [
+            {
+                "LU": "check.v",
+                "Frame": "Scrutiny"
+            }
+        ]
+    },
+    {
+        "text": "signupForm.",
+        "frame": []
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "agree_email.",
+        "frame": []
+    },
+    {
+        "text": "checked);\" /> I accept Smashwords' <a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "check.v",
+                "Frame": "Scrutiny"
+            },
+            {
+                "LU": "accept.v",
+                "Frame": "Respond_to_proposal"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/privacy\"target=\"_blank\">Privacy Policy</a>, which describes how Smashwords collects, uses and protects my personal information </label> </div> <div class=\"checkbox\"> <label> <input type=\"checkbox\" name=\"agree_email\" id=\"agree_email\" value=\"yes\" onclick=\"signupForm.",
+        "frame": [
+            {
+                "LU": "describe.v",
+                "Frame": "Communicate_categorization"
+            },
+            {
+                "LU": "information.n",
+                "Frame": "Information"
+            }
+        ]
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "submit.",
+        "frame": [
+            {
+                "LU": "submit.v",
+                "Frame": "Submitting_documents"
+            }
+        ]
+    },
+    {
+        "text": "disabled=(.",
+        "frame": []
+    },
+    {
+        "text": "signupForm.",
+        "frame": []
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "agree_tos.",
+        "frame": []
+    },
+    {
+        "text": "checked ||.",
+        "frame": [
+            {
+                "LU": "check.v",
+                "Frame": "Scrutiny"
+            }
+        ]
+    },
+    {
+        "text": "signupForm.",
+        "frame": []
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "agree_privacy.",
+        "frame": []
+    },
+    {
+        "text": "checked ||.",
+        "frame": [
+            {
+                "LU": "check.v",
+                "Frame": "Scrutiny"
+            }
+        ]
+    },
+    {
+        "text": "signupForm.",
+        "frame": []
+    },
+    {
+        "text": "elements.",
+        "frame": [
+            {
+                "LU": "element.n",
+                "Frame": "Ingredients"
+            }
+        ]
+    },
+    {
+        "text": "agree_email.",
+        "frame": []
+    },
+    {
+        "text": "checked);\" /> I understand that in order for Smashwords to provide me this service, it must communicate with me via email.",
+        "frame": [
+            {
+                "LU": "check.v",
+                "Frame": "Scrutiny"
+            },
+            {
+                "LU": "that.adv",
+                "Frame": "Degree"
+            },
+            {
+                "LU": "in.prep",
+                "Frame": "Taking_time"
+            },
+            {
+                "LU": "order.n",
+                "Frame": "Sentencing"
+            },
+            {
+                "LU": "for.prep",
+                "Frame": "Taking_sides"
+            },
+            {
+                "LU": "to.prep",
+                "Frame": "Locative_relation"
+            },
+            {
+                "LU": "service.n",
+                "Frame": "Public_services"
+            },
+            {
+                "LU": "with.prep",
+                "Frame": "Have_associated"
+            }
+        ]
+    },
+    {
+        "text": "(See our <a href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/privacy\"target=\"_blank\">Privacy Policy</a>.",
+        "frame": []
+    },
+    {
+        "text": ") </label> </div> </div> </div>.",
+        "frame": []
+    },
+    {
+        "text": "<input class=\"btn btn-primary\" type=\"submit\" value=\"Sign me up.",
+        "frame": []
+    },
+    {
+        "text": "</div> </div> <div style=\"clear:both;\"></div> <footer class=\"footer\"> <nav> <ul class=\"inline\"> <li><a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "clear.a",
+                "Frame": "Obviousness"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about\">About</a></li> <li><a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "about.prep",
+                "Frame": "Proportional_quantity"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/press\">Press Room</a></li> <li><a href=\"http://blog.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com\">Blog</a></li> <li><a href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/podcast\">Smart Author Podcast</a></li> <li><a href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/affiliate\">Affiliates</a></li> <li><a href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/supportfaq\">FAQ</a></li> <li><a href=\"#showTop\" id=\"showBottom\">Support</a></li> <li><a href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/privacy\">Privacy Statement</a></li> <li><a href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/about/tos\">Terms of Service</a></li> <li style=\"vertical-align: top;\"> <a onclick=\"$('#filterMenuFooter').",
+        "frame": [
+            {
+                "LU": "service.n",
+                "Frame": "Public_services"
+            },
+            {
+                "LU": "top.n",
+                "Frame": "Occupy_rank"
+            }
+        ]
+    },
+    {
+        "text": "toggle(33);\" class=\"btn btn-xs btn-outline-secondary\" title=\"Erotica controls\" > Filtering </a> <div id=\"filterMenuFooter\" style=\"display: none;\"> <button type=\"button btn-filter\" class=\"btn btn-xs btn-block btn-outline-secondary active\" style=\"margin: 0px;\" onclick=\"oldsw.",
+        "frame": [
+            {
+                "LU": "active.a",
+                "Frame": "Being_active"
+            }
+        ]
+    },
+    {
+        "text": "contentFilteringChange('no_erotica');\" title=\"Blocks erotica books from appearing on the home page and in search results.",
+        "frame": [
+            {
+                "LU": "from.prep",
+                "Frame": "Evidence"
+            },
+            {
+                "LU": "on.prep",
+                "Frame": "Non-gradable_proximity"
+            },
+            {
+                "LU": "home.n",
+                "Frame": "Foreign_or_domestic_country"
+            },
+            {
+                "LU": "page.v",
+                "Frame": "Contacting"
+            },
+            {
+                "LU": "in.prep",
+                "Frame": "Taking_time"
+            },
+            {
+                "LU": "search.n",
+                "Frame": "Seeking"
+            },
+            {
+                "LU": "result.n",
+                "Frame": "Causation"
+            }
+        ]
+    },
+    {
+        "text": "> Exclude erotica        </button> <button type=\"button btn-filter\" class=\"btn btn-xs btn-block btn-outline-secondary \" style=\"margin: 0px;\" onclick=\"oldsw.",
+        "frame": []
+    },
+    {
+        "text": "contentFilteringChange('no_taboo');\" title=\"Mainstream erotica is carried by most major ebook stores.",
+        "frame": [
+            {
+                "LU": "most.art",
+                "Frame": "Proportional_quantity"
+            },
+            {
+                "LU": "major.a",
+                "Frame": "Importance"
+            },
+            {
+                "LU": "store.n",
+                "Frame": "Businesses"
+            }
+        ]
+    },
+    {
+        "text": "> Include mainstream erotica        </button> <button type=\"button btn-filter\" class=\"btn btn-xs btn-block btn-outline-secondary \" style=\"margin: 0px;\" onclick=\"oldsw.",
+        "frame": []
+    },
+    {
+        "text": "contentFilteringChange('no_filtering');\" title=\"Allow all erotica, including books with &#039;taboo&#039; themes.",
+        "frame": [
+            {
+                "LU": "include.v",
+                "Frame": "Inclusion"
+            },
+            {
+                "LU": "with.prep",
+                "Frame": "Accompaniment"
+            },
+            {
+                "LU": "theme.n",
+                "Frame": "Topic"
+            }
+        ]
+    },
+    {
+        "text": "> Include all erotica        </button> </div> </li> <li class=\"d-block d-sm-none\"> <a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "all.a",
+                "Frame": "Quantified_mass"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/books\">Classic Interface</a> </li> <li><a href=\"https://www.",
+        "frame": []
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/signin\">Sign In</a></li> <li><a href=\"https://www.",
+        "frame": [
+            {
+                "LU": "in.prep",
+                "Frame": "Taking_time"
+            }
+        ]
+    },
+    {
+        "text": "smashwords.",
+        "frame": []
+    },
+    {
+        "text": "com/signup\">Join Now for Free</a></li> </ul> </nav> <div class=\"text-center small visible-md visible-lg\"> Copyright &copy; 2019 Smashwords, Inc.",
+        "frame": [
+            {
+                "LU": "now.adv",
+                "Frame": "Temporal_collocation"
+            },
+            {
+                "LU": "for.prep",
+                "Frame": "Taking_sides"
+            },
+            {
+                "LU": "free.v",
+                "Frame": "Breaking_out_captive"
+            }
+        ]
+    },
+    {
+        "text": "All rights reserved.",
+        "frame": [
+            {
+                "LU": "right.n",
+                "Frame": "Correctness"
+            }
+        ]
+    },
+    {
+        "text": "</div> <div class=\"text-center small d-block d-sm-none\"> Copyright &copy; 2019 Smashwords, Inc.",
+        "frame": []
+    },
+    {
+        "text": "<div>All rights reserved.",
+        "frame": [
+            {
+                "LU": "all.a",
+                "Frame": "Quantified_mass"
+            },
+            {
+                "LU": "right.n",
+                "Frame": "Correctness"
+            }
+        ]
+    },
+    {
+        "text": "</div> </div> </footer> </div> <script> $(function(){ oldsw.",
+        "frame": [
+            {
+                "LU": "function.n",
+                "Frame": "Contingency"
+            }
+        ]
+    },
+    {
+        "text": "AllSmashwordRules(); }); </script> <script> $(function() { last_req = \"\"; $( \"#primarysearch\" ).",
+        "frame": [
+            {
+                "LU": "function.n",
+                "Frame": "Contingency"
+            }
+        ]
+    },
+    {
+        "text": "autocomplete({ minLength: 3, delay: 100, select: function(event, ui) { $( \"#primarysearch\" ).",
+        "frame": [
+            {
+                "LU": "delay.n",
+                "Frame": "Hindering"
+            },
+            {
+                "LU": "select.v",
+                "Frame": "Choosing"
+            },
+            {
+                "LU": "function.n",
+                "Frame": "Contingency"
+            }
+        ]
+    },
+    {
+        "text": "val(ui.",
+        "frame": []
+    },
+    {
+        "text": "item.",
+        "frame": []
+    },
+    {
+        "text": "value); $( \".",
+        "frame": []
+    },
+    {
+        "text": "header-search\" ).",
+        "frame": []
+    },
+    {
+        "text": "submit(); }, source: function( request, response ) { $.",
+        "frame": [
+            {
+                "LU": "source.n",
+                "Frame": "Source_of_getting"
+            },
+            {
+                "LU": "function.n",
+                "Frame": "Contingency"
+            },
+            {
+                "LU": "request.n",
+                "Frame": "Request"
+            }
+        ]
+    },
+    {
+        "text": "ajax({ dataType: \"json\", type : 'Get', url: '//api.",
+        "frame": [
+            {
+                "LU": "type.n",
+                "Frame": "Text_creation"
+            }
+        ]
+    },
+    {
+        "text": "datamuse.",
+        "frame": []
+    },
+    {
+        "text": "com/sug.",
+        "frame": []
+    },
+    {
+        "text": "k=smashwords&v=smashwords_plus_adult&s=' + encodeURIComponent(request.",
+        "frame": [
+            {
+                "LU": "request.n",
+                "Frame": "Request"
+            }
+        ]
+    },
+    {
+        "text": "term), success: function(data) { response( $.",
+        "frame": [
+            {
+                "LU": "term.n",
+                "Frame": "Simple_naming"
+            },
+            {
+                "LU": "function.n",
+                "Frame": "Contingency"
+            },
+            {
+                "LU": "data.n",
+                "Frame": "Information"
+            },
+            {
+                "LU": "response.n",
+                "Frame": "Response"
+            }
+        ]
+    },
+    {
+        "text": "map( data, function(item) { return item[\"word\"]; })) }, }); last_req = request.",
+        "frame": [
+            {
+                "LU": "data.n",
+                "Frame": "Information"
+            },
+            {
+                "LU": "function.n",
+                "Frame": "Contingency"
+            },
+            {
+                "LU": "request.n",
+                "Frame": "Request"
+            }
+        ]
+    },
+    {
+        "text": "term; } }); }); </script> </body> </html>.",
+        "frame": [
+            {
+                "LU": "term.n",
+                "Frame": "Simple_naming"
+            }
+        ]
+    }
+]
