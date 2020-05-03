@@ -1,1 +1,2 @@
-
+For the data cosumed by the search engine, you can acquire the complete Google Book (Consisting of 30 books) repository, with Sentiment frame implementation in "books" folder
+For the indexed and cleaned file for elasticsearch consumption, you can find that in "BookL"
